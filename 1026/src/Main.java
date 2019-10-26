@@ -8,6 +8,7 @@ public class Main {
 		Map<String,Integer>  prefs = new HashMap<String,Integer>();
 		prefs.put("Kyoto",255);
 		prefs.put("Tokyo",332);
+		/*testtest*/
 
 		int tokyo = prefs.get("Tokyo");
 		System.out.println(tokyo);
